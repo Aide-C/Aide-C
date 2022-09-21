@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aide-C
 - 👀 I’m interested in web development and software engineering.
 - 🌱 I’m currently learning computer architecture and software engineering at Texas state University and Java on codeacademy. 
-- 💞️ I’m looking to collaborate on projects in C++, python, web development, and/or software.
+- 💞️ I’m looking to collaborate on projects in C++, python, Java, web development, and/or software engineering.
 - 📫 How to reach me on messages on github, linkedin, or email on my resume. 
 
 <!---
